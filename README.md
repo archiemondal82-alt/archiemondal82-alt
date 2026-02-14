@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Anubhab! 👋
+I am an aspiring **Computer Vision Engineer** and **Python Developer** focused on building accessible Human-Computer Interaction (HCI) tools.
 
-<!--
-**archiemondal82-alt/archiemondal82-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **VisionTouch**, a contactless AI mouse interface.
+- 🎓 I’m interested in **Electrical & Computer Engineering** and **AI Automation**.
+- 🛠️ **Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow, MATLAB/Simulink.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: VisionTouch AI
+> *A contactless gesture control system replacing physical mice with computer vision.*
+
+* **Real-time Tracking:** 30+ FPS hand tracking using MediaPipe.
+* **State Machine Logic:** Distinct states for Cursor Move, Click, and Volume Control.
+* **Engineering:** Implemented signal smoothing algorithms and coordinate interpolation.
+
+[**View Project Code**](https://github.com/archiemondal82-alt/VisionTouch-AI-Interface)
