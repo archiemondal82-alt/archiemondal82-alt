@@ -17,9 +17,6 @@ I am an aspiring **Computer Vision Engineer** and **Python Developer** focused o
 [**View Project Code**](https://github.com/archiemondal82-alt/VisionTouch-AI-Interface)
 # 🚀 Featured Project: NexStep AI Pro
 
-> Add this section to your profile README (archiemondal82-alt/README.md) to showcase your project
-
----
 
 ## 🎯 NexStep AI Pro - AI Career Path Analyzer
 
