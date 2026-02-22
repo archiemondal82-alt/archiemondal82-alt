@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Anubhab Mondal 👋</h1>
-  <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img height="300" width="700" alt="Toji Fushiguro" align="center" src="https://media1.tenor.com/m/eF6CmB2MtZsAAAAd/toji-fushiguro-toji.gif">
 </div>
 
 <br>
