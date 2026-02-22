@@ -34,6 +34,19 @@
 
 ---
 
+### 🚀 Featured Project: JobLess AI
+
+> *An AI-powered career intelligence platform — analyze careers, build ATS resumes & ace mock interviews.*
+
+- **Multi-Provider AI:** Supports Google Gemini, Groq (Llama 3.3-70B) & Cohere — all free
+- **ATS Resume Builder:** Keyword-optimized resumes with real-time ATS scoring
+- **Mock Interview Simulator:** 8 questions, per-answer AI feedback & final verdict
+- **Career Path Analysis:** 6-8 personalized career paths with salary ranges & skill gap analysis
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://joblessai.streamlit.app/) [![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiemondal82-alt/JobLess_AI)
+
+---
+
 ### 🚀 Featured Project: VisionTouch AI
 
 > *A contactless gesture control system replacing physical mice with computer vision.*
