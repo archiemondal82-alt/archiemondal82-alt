@@ -1,118 +1,76 @@
-### Hi there, I'm Anubhab! 👋
-I am an aspiring **Computer Vision Engineer** and **Python Developer** focused on building accessible Human-Computer Interaction (HCI) tools.
+<div align="center">
+  <h1 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Anubhab Mondal 👋</h1>
+  <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-- 🔭 I’m currently working on **VisionTouch**, a contactless AI mouse interface.
-- 🎓 I’m interested in **Electrical & Computer Engineering** and **AI Automation**.
-- 🛠️ **Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow, MATLAB/Simulink.
+<br>
+
+<h3 align="center">An aspiring Computer Vision Engineer & Python Developer focused on building accessible Human-Computer Interaction (HCI) tools</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archiemondal82-alt&label=Profile%20views&color=0e75b6&style=flat" alt="archiemondal82-alt" /> </p>
+
+---
+
+### 📬 Find me at
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/archiemondal82-alt/)](https://github.com/archiemondal82-alt/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhab-mondal-tech/)](https://www.linkedin.com/in/anubhab-mondal-tech/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archiemondal82@gmail.com)](mailto:archiemondal82@gmail.com)
+
+<br>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+- 🔭 I'm currently building **VisionTouch** — a contactless AI mouse interface
+- 🌱 I'm currently learning **Deep Learning & Advanced Computer Vision**
+- 💬 Ask me about **Computer Vision, Python, OpenCV, MediaPipe & HCI**
+- 📧 Reach me at **archiemondal82@gmail.com**
+- 🎯 Focused on **Electrical Engineering × Artificial Intelligence**
+- ⚡ Fun fact **I replaced my mouse with hand gestures 🖐️**
+
+<br>
+<br>
+<br>
 
 ---
 
 ### 🚀 Featured Project: VisionTouch AI
+
 > *A contactless gesture control system replacing physical mice with computer vision.*
 
-* **Real-time Tracking:** 30+ FPS hand tracking using MediaPipe.
-* **State Machine Logic:** Distinct states for Cursor Move, Click, and Volume Control.
-* **Engineering:** Implemented signal smoothing algorithms and coordinate interpolation.
+- **Real-time Tracking:** 30+ FPS hand tracking using MediaPipe
+- **State Machine Logic:** Distinct states for Cursor Move, Click, and Volume Control
+- **Engineering:** Implemented signal smoothing algorithms and coordinate interpolation
 
-[**View Project Code**](https://github.com/archiemondal82-alt/VisionTouch-AI-Interface)
-# 🚀 Featured Project: NexStep AI Pro
-
-
-## 🎯 NexStep AI Pro - AI Career Path Analyzer
-
-An intelligent career guidance platform powered by Google Gemini AI that transforms career planning into an interactive, personalized experience.
-
-### 🌟 Highlights
-
-- **🤖 AI-Powered Insights**: Leverages Google's Gemini AI for intelligent career recommendations
-- **📄 Resume Analysis**: Upload PDFs and get instant skill extraction and gap analysis  
-- **🗺️ Custom Roadmaps**: Generate personalized career progression plans with actionable steps
-- **💬 Interactive Chat**: Real-time career counseling through conversational AI
-- **📊 Skill Assessment**: Comprehensive evaluation across technical and soft skills
-
-### 🛠️ Built With
-
-`Python` · `Streamlit` · `Google Gemini AI` · `PyMuPDF` · `Pandas` · `Altair`
-
-### ⚡ Key Features
-
-```
-✅ Intelligent career path recommendations
-✅ Real-time AI chat for career queries  
-✅ PDF resume processing and analysis
-✅ Personalized skill gap identification
-✅ Step-by-step career roadmap generation
-✅ Industry trends and demand insights
-```
-
-### 🎯 Impact
-
-- **Fast Deployment**: Optimized from 20+ minute deploys to under 5 minutes
-- **Production-Ready**: Live on Streamlit Cloud with 99%+ uptime
-- **User-Friendly**: Intuitive interface requiring zero technical knowledge
-- **Free to Use**: 1500 API requests per day at no cost
-
-### 🔗 Links
-
-[🌐 Live Demo](https://nexstep-ai-pro-2026.streamlit.app) · [📂 Source Code](https://github.com/archiemondal82-alt/nexstep-ai-pro) · [📖 Documentation](https://github.com/archiemondal82-alt/nexstep-ai-pro#readme)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiemondal82-alt)
 
 ---
 
-## 📈 Architecture Overview
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
 
-```mermaid
-graph LR
-    A[User] --> B[Streamlit Frontend]
-    B --> C[Google Gemini AI]
-    B --> D[PDF Processor]
-    D --> E[Skill Extractor]
-    C --> F[Career Insights]
-    E --> F
-    F --> B
-```
+[![My Skills](https://skillicons.dev/icons?i=python,opencv,tensorflow,matlab,c,cpp,git,linux,vscode,github,flask,numpy)](https://skillicons.dev)
+
+</p>
 
 ---
 
-## 🎓 What I Learned
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-### Technical Skills
-- Building production-ready AI applications with Streamlit
-- Integrating Google Gemini API for intelligent responses
-- Optimizing deployment pipelines (reduced deploy time by 75%)
-- PDF processing and text extraction at scale
-- Managing Python dependencies for cloud deployment
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-### Problem-Solving
-- **Challenge**: Deployment taking 20+ minutes and timing out
-- **Solution**: Identified Python 3.13 compatibility issues, downgraded to 3.10
-- **Result**: Reduced deployment time to 2-5 minutes with 100% success rate
+![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
-### Best Practices
-- Environment-specific configurations with `.python-version`
-- Secure API key management using Streamlit secrets
-- User-friendly error handling and guidance
-- Responsive design for mobile and desktop
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiemondal82-alt&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/archiemondal82-alt/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archiemondal82-alt&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 💡 Future Enhancements
+<h3 align="left">🏆 Github Trophies:</h3>
 
-- [ ] Multi-language support for global accessibility
-- [ ] Interview preparation module with AI mock interviews
-- [ ] Salary insights and negotiation strategies
-- [ ] Job market trends dashboard with real-time data
-- [ ] LinkedIn profile optimization suggestions
-- [ ] Career trajectory visualization with interactive charts
-
----
-
-## 🤝 Want to Collaborate?
-
-I'm always open to feedback and collaboration! If you have ideas for improving NexStep AI Pro or want to contribute, feel free to:
-- Open an issue on GitHub
-- Submit a pull request
-- Reach out via [email](mailto:archiemondal82@gmail.com) or [LinkedIn](https://linkedin.com/in/anubhab-mondal-b140543a7)
-
----
-
-*This project represents my commitment to leveraging AI for practical, user-focused solutions that make a real impact on people's careers.*
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=onedark" alt="archiemondal82-alt trophies" />
+  </a>
+</p>
