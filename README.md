@@ -43,6 +43,8 @@
 - **Mock Interview Simulator:** 8 questions, per-answer AI feedback & final verdict
 - **Career Path Analysis:** 6-8 personalized career paths with salary ranges & skill gap analysis
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://joblessai.streamlit.app/) [![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiemondal82-alt/JobLess_AI)
 
 ---
@@ -54,6 +56,8 @@
 - **Real-time Tracking:** 30+ FPS hand tracking using MediaPipe
 - **State Machine Logic:** Distinct states for Cursor Move, Click, and Volume Control
 - **Engineering:** Implemented signal smoothing algorithms and coordinate interpolation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archiemondal82-alt)
 
