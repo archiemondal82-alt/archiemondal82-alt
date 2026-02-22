@@ -58,12 +58,11 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiemondal82-alt&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=archiemondal82-alt&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=archiemondal82-alt&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archiemondal82-alt&theme=tokyo-night" />
 </p>
 
 ---
@@ -71,5 +70,5 @@
 <h3 align="center">🏆 Github Trophies:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
