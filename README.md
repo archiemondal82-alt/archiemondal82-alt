@@ -57,20 +57,22 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues" />
+</p>
 
-![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiemondal82-alt&layout=compact&theme=tokyonight" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiemondal82-alt&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/archiemondal82-alt/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archiemondal82-alt&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=archiemondal82-alt&theme=tokyonight" />
+</p>
 
 ---
 
 <h3 align="left">🏆 Github Trophies:</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=onedark" alt="archiemondal82-alt trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=tokyonight&column=7" />
 </p>
