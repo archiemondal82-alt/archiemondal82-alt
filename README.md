@@ -5,7 +5,7 @@
 
 <br>
 
-<h3 align="center">An aspiring AI ML enthusiast & Python Developer focused on building accessible Human-Computer Interaction (HCI) tools</h3>
+<h3 align="center">An aspiring AI ML Enthusiast & Python Developer focused on building accessible Human-Computer Interaction (HCI) tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archiemondal82-alt&label=Profile%20views&color=0e75b6&style=flat" alt="archiemondal82-alt" /> </p>
 
