@@ -75,7 +75,7 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=FFC0CB&title_color=E91E63&text_color=000000&icon_color=E91E63&border_color=E91E63&custom_title=Anubhab%20Mondal%27s%20GitHub%20Stats" alt="Anubhab Mondal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=archiemondal82-alt&show_icons=true&count_private=true&hide_border=false&bg_color=FFC0CB&title_color=E91E63&text_color=000000&icon_color=E91E63&border_color=E91E63&custom_title=Anubhab%20Mondal%27s%20GitHub%20Stats" alt="Anubhab Mondal's GitHub stats" />
 </p>
 
 <p align="center">
