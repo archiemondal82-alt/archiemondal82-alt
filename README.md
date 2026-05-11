@@ -88,7 +88,7 @@
 
 ---
 
-<h3 align="center">🏆 Github Trophies:</h3>
+<h3 align="center">🏆 Github trophies:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=archiemondal82-alt&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
